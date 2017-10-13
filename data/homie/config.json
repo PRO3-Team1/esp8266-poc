@@ -1,0 +1,15 @@
+{
+  "name": "robot",
+  "wifi": {
+    "ssid": "FamTrue",
+    "password": "UCR2K1ERGH"
+  },
+  "mqtt": {
+    "host": "test.mosquitto.org",
+    "port": 1883,
+    "auth": false
+  },
+  "ota": {
+    "enabled": true
+  }
+}
