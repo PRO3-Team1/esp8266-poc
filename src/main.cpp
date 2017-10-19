@@ -9,9 +9,9 @@ WebSocketsClient webSocket;
 
 #define HEARTBEAT_INTERVAL 25000
 
-#define LEFT_FORWARD 1
+#define LEFT_FORWARD D1
 #define LEFT_REVERSE 2
-#define RIGHT_FORWARD 3
+#define RIGHT_FORWARD D2
 #define RIGHT_REVERSE 4
 
 uint64_t heartbeatTimestamp = 0;
